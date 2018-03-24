@@ -15,6 +15,7 @@ public class File {
 		System.out.println("开始第二天的工作任务......");
 		
 		
+		System.out.println("第二次修复bug");
 	}
 }
 
