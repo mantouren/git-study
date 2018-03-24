@@ -13,6 +13,7 @@ public class File {
 		System.out.println("开始工作了......");
 		System.out.println("第一天工作完成了");
 		
+		System.out.println("第二次修复bug");
 	}
 }
 
