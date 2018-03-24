@@ -12,10 +12,11 @@ public class File {
 		System.out.println("紧急修复bug,修复成功!");
 		System.out.println("开始工作了......");
 		System.out.println("第一天工作完成了");
+		
 		System.out.println("开始第二天的工作任务......");
-		
-		
 		System.out.println("第二次修复bug");
+		System.out.println("完成第二天的开发任务");
+		
 	}
 }
 
